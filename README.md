@@ -12,7 +12,7 @@ Mindful Retreats is a web application for finding and listing mindfulness retrea
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/mindful-retreats.git
+git clone https://github.com/anthimaya/mindful-retreats.git
 cd mindful-retreats
 ```
 
